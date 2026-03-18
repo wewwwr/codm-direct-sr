@@ -9,3 +9,4 @@ IP-CIDR,100.64.0.0/10
 IP-CIDR,198.18.0.0/15
 DOMAIN-SUFFIX,updates.cdn-apple.com
 DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,mail.me.com
